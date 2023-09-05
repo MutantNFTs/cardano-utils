@@ -1,7 +1,7 @@
 {
   "name": "@mutants/cardano-utils",
   "private": false,
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A package that provides utility functions for cardano apps.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

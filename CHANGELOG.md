@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/MutantNFTs/cardano-utils/compare/v1.1.0...v1.2.0) (2023-09-05)
+
+
+### Features
+
+* to payment address util ([c829cdd](https://github.com/MutantNFTs/cardano-utils/commit/c829cdd19a8c13a9905cf42c82a224d7f99e545d))
+
 # [1.1.0](https://github.com/MutantNFTs/cardano-utils/compare/v1.0.4...v1.1.0) (2023-09-05)
 
 
