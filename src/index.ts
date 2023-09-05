@@ -7,6 +7,7 @@ export * from "./hexToBytes";
 export * from "./hexToString";
 export * from "./isSameStakeAddress";
 export * from "./toAda";
+export * from "./toLovelace";
 export * from "./toHexAddress";
 export * from "./toPubKeyHash";
 export * from "./toStakeAddress";
