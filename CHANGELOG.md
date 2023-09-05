@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/MutantNFTs/cardano-utils/compare/v1.2.0...v1.2.1) (2023-09-05)
+
+
+### Bug Fixes
+
+* update toStakeAddress to cover hex addresses ([f4b99f9](https://github.com/MutantNFTs/cardano-utils/commit/f4b99f9fac34fbb037670e170fed4d7ba2ded608))
+
 # [1.2.0](https://github.com/MutantNFTs/cardano-utils/compare/v1.1.0...v1.2.0) (2023-09-05)
 
 
