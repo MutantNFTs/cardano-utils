@@ -11,3 +11,4 @@ export * from "./toLovelace";
 export * from "./toHexAddress";
 export * from "./toPubKeyHash";
 export * from "./toStakeAddress";
+export * from "./toPaymentAddress";
