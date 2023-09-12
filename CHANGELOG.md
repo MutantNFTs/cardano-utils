@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/MutantNFTs/cardano-utils/compare/v1.2.1...v1.3.0) (2023-09-12)
+
+
+### Features
+
+* convert asset to metadata cip68 ([ffaa529](https://github.com/MutantNFTs/cardano-utils/commit/ffaa529cb2dc58806061d8ae56e91d15631027e7))
+
 ## [1.2.1](https://github.com/MutantNFTs/cardano-utils/compare/v1.2.0...v1.2.1) (2023-09-05)
 
 
